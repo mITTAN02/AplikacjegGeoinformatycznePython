@@ -1,0 +1,9 @@
+2024-07-31 22:48:55,501 - INFO - Starting the application
+2024-07-31 22:48:55,501 - INFO - Number of working ambulances: Number of working ambulances: 2
+2024-07-31 22:48:55,502 - INFO - Aktualne zg³oszenia:
+2024-07-31 22:48:55,502 - INFO - Incident 0: Power outage in sector 4, location: (53, 25), priority: 28, hour: 06:00, status: Dead or not? We don't know yet
+    Incident 1: Fire alarm in building 21, location: (51, 21), priority: 80, hour: 15:00, status: Dead or not? We don't know yet
+2024-07-31 22:48:55,503 - INFO - Station one: Station 0: location: (51, 20), ambulance: Ambulance ID: 1, Type: Type A, Status: available, Location: (50.09534, 18.920282), Equipment: Defibrillator, Oxygen tank, driver: Driver ID: 125, Name: Mike Johnson, Salary: 10000.0, License Number: DL12345, Qualifications: BLS, employee: None
+2024-07-31 22:48:55,504 - INFO - Station one: Station 1: location: (51, 20), ambulance: Ambulance ID: 2, Type: Type B, Status: on mission, Location: (50.09534, 19.920282), Equipment: Stretcher, First Aid Kit, driver: Driver ID: 126, Name: Anna Brown, Salary: 11500.0, License Number: DL12346, Qualifications: ALS, PHTLS, employee: None
+2024-07-31 22:48:55,505 - INFO - Przed podwy¿k¹: Driver ID: 125, Name: Mike Johnson, Salary: 10000.0, License Number: DL12345, Qualifications: BLS
+2024-07-31 22:48:55,506 - INFO - Po podwy¿ce: Driver ID: 125, Name: Mike Johnson, Salary: 5000.12, License Number: DL12345, Qualifications: BLS
